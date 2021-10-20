@@ -1,0 +1,62 @@
+
+{
+"imagedata" : [
+    {
+      "id":"1",
+      "title": "What is Digital Marketing?",
+      "image": "/images/sm5.jpg",
+      "subtitle":"Digital marketing is any marketing initiative that leverages online media and the internet through connected devices such as mobile phones, home computers, or the Internet of Things (IoT). Common digital marketing initiatives center around distributing a brand message through search engines, social media, applications, email, and websites. ",
+      "description": "Today, digital marketing often focuses on reaching a customer with increasingly conversion-oriented messages across multiple channels as they move down the sales funnel. Ideally, marketing teams will be able to track the role each of these messages and/or channels played in reaching their ultimate goal. "
+    },
+    {
+      "id":"2",
+      "title": "Search Engine Optimization",
+      "image": "/images/seo.jpeg",
+      "subtitle":"The goal of SEO is to get a business to rank higher in Google search results, ultimately increasing search engine traffic to the business’s website",
+      "description": "To accomplish this, SEO marketers research words and phrases consumers are using to search for information online, and use those terms in their own content. According to leading SEO software company Moz's Beginners Guide to SEO, SEO encompasses many elements, from the words on your web pages to the way other sites link to you on the web to how your website is structured. An SEO specialist can make around $59,000, according to Salary.com  So, what are some things that can improve a site’s SEO? It’s important to understand that one of the things that makes SEO challenging is that the answer to this question always depends on Google and its most current algorithm. Keeping that in mind, here are a few of the most important things for SEO strategists and marketers in general to understand about how SEO works today, from Moz's Beginners Guide to SEO:"
+    },
+    {
+      "id": "3",
+      "title": "Pay-per-Click",
+      "image": "/images/paypal.jpeg",
+      "subtitle":"Pay-per-click refers to paid advertisements and promoted search engine results. This is a short-term form of digital marketing, meaning that once you are no longer paying, the ad no longer exists. Like SEO, PPC is a way to increase search traffic to a business online.",
+      "description":"Pay-per-click can refer to the advertisements you see at the top and sides of a page of search results, the ads you see while browsing the web, ads before YouTube videos and in ads in mobile apps.One of the other things that differentiates pay-per-click from SEO is that you only pay for the results. In a typical PPC model like a Google AdWords campaign, you will pay only when someone clicks on your ad and lands on your website. You can spend just about any amount of money on pay-per-click advertising. Some companies may see results from investing just a few hundred dollars, but plenty of large companies spend tens of thousands a month on pay-per-click."
+    },
+    {
+      "id": "4",
+      "title": "Social Media Marketing",
+      "image": "/images/socialmarketing.jpeg",
+      "subtitle":"This includes everything a business does via social media channels. Just about everyone is familiar with social media, but marketers must approach social with an integrated and strategic approach. Social media marketing goes far beyond simply creating posts for social channels and responding to comments.",
+      "description":"To be effective, efforts must be coordinated and consistent rather than an afterthought. To help keep posts consistent, there are many online tools available to automate and schedule social media posts, although marketers only should use automation as a tool, not a “set it and forget it” solution. Users will figure it out quickly if there is no real person behind the posts. Social media marketers should not be in a silo separate from other marketing functions. Social marketers need to work with the company’s wider marketing team to coordinate their message across all platforms, online and off, so that every part of the brand is telling the same story."
+    },
+    {
+      "id": "5",
+      "title": "Content Marketing",
+      "image": "/images/content.jpeg",
+      "subtitle":"Content marketing uses storytelling and information sharing to increase brand awareness. Ultimately, the goal is to have the reader take an action towards becoming a customer, such as requesting more information, signing up for an email list, or making a purchase.",
+      "description":"“Content” can mean blog posts, resources like white papers and e-books, digital video, podcasts, and much more. In general, it should first and foremost provide value to the consumer, not just advertise the brand or try to make a sale. Content marketing is about building a sustainable, trusting relationship with your customers that can potentially lead to many sales over time, not just making a single transaction."
+    },
+    {
+      "id": "6",
+      "title": "Email Marketing",
+      "image": "/images/email.jpeg",
+      "subtitle":"Even with the emergence of social media, mobile applications and other channels, email is still one of the most effective marketing techniques, Rogers said. It can be part of a content marketing strategy, providing value to consumers and over time convert an audience into customers.",
+      "description":" Email marketing pros not only know how to create compelling campaigns, they also understand optimal audience outreach and are skilled at analyzing customer interactions and data, and making strategic decisions based on that data, according to the American Marketing Association.A cell phone displaying bar graphs associated with an email marketing campaign.Email marketing software can offer many different analytical measures, but two that marketers are always striving to improve are the open rate –the percentage of recipients who opened the email – and the click through rate – the number of recipients who opened the email and clicked on a link in the email. "
+    },
+    {
+      "id": "7",
+      "title": " Mobile Marketing",
+      "image": "/images/mobile.jpeg",
+      "subtitle":"This digital marketing type is this focused on reaching your target audience on their smart phone or tablet. Mobile marketing reaches people through text messages, social media, websites, email and mobile applications. Marketers can tailor offers or special content to a geographic location or time, such as when a customer walks into a store or enters an event.",
+      "description":"According to a recent TechCrunch article, consumers in the United States now spend five hours a day on their phones. This represents a 20% increase from the fourth quarter of 2015. Users are also spending much more of their time in apps rather than on mobile browsers. In 2017, users are spending much more time with apps than watching television. 15% of that app time is spent with entertainment apps like Netflix and Hulu, 19% of it is spent on Facebook’s mobile app, 12% on other social and messaging apps, and 11% in gaming apps, according to the TechCrunch article."
+    },
+    {
+      "id":"8",
+      "title": "Marketing Analytics.",
+      "image": "/images/market.jpeg",
+      "subtitle":"One of the major advantages of digital marketing is that it is highly trackable and measurable. Once, the only trackable marketing pieces were coupons and similar direct mail offers. If a customer used the coupon, you knew the message resonated. ",
+      "description":"Today, analytics allow marketers to track user behavior at a highly detailed level: how many times they click on a link, how much time they spend on a web page, how often they open emails, and much more. But the vast amount of information available about digital marketing performance can feel like drinking from a fire hose, and marketers must be able to truly understand what the data mean and how they should inform strategy. A woman looking at a computer monitor and using marketing analytics to optimize a digital campaign.Not only does this allow marketers to learn what is successful with consumers and adapt their marketing messages moving forward, it also means they can demonstrate their value to the company. Understanding all of this data and using it to make strategic decisions is an important part of a digital marketer’s work, and one that sets them apart from their traditional counterparts."
+    }
+  
+]
+}
